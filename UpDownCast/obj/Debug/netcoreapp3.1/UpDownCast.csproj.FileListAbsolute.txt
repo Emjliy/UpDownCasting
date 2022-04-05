@@ -1,0 +1,14 @@
+C:\Users\Emilia\Desktop\UpDownCast\UpDownCast\bin\Debug\netcoreapp3.1\UpDownCast.exe
+C:\Users\Emilia\Desktop\UpDownCast\UpDownCast\bin\Debug\netcoreapp3.1\UpDownCast.deps.json
+C:\Users\Emilia\Desktop\UpDownCast\UpDownCast\bin\Debug\netcoreapp3.1\UpDownCast.runtimeconfig.json
+C:\Users\Emilia\Desktop\UpDownCast\UpDownCast\bin\Debug\netcoreapp3.1\UpDownCast.runtimeconfig.dev.json
+C:\Users\Emilia\Desktop\UpDownCast\UpDownCast\bin\Debug\netcoreapp3.1\UpDownCast.dll
+C:\Users\Emilia\Desktop\UpDownCast\UpDownCast\bin\Debug\netcoreapp3.1\UpDownCast.pdb
+C:\Users\Emilia\Desktop\UpDownCast\UpDownCast\obj\Debug\netcoreapp3.1\UpDownCast.csproj.AssemblyReference.cache
+C:\Users\Emilia\Desktop\UpDownCast\UpDownCast\obj\Debug\netcoreapp3.1\UpDownCast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emilia\Desktop\UpDownCast\UpDownCast\obj\Debug\netcoreapp3.1\UpDownCast.AssemblyInfoInputs.cache
+C:\Users\Emilia\Desktop\UpDownCast\UpDownCast\obj\Debug\netcoreapp3.1\UpDownCast.AssemblyInfo.cs
+C:\Users\Emilia\Desktop\UpDownCast\UpDownCast\obj\Debug\netcoreapp3.1\UpDownCast.csproj.CoreCompileInputs.cache
+C:\Users\Emilia\Desktop\UpDownCast\UpDownCast\obj\Debug\netcoreapp3.1\UpDownCast.dll
+C:\Users\Emilia\Desktop\UpDownCast\UpDownCast\obj\Debug\netcoreapp3.1\UpDownCast.pdb
+C:\Users\Emilia\Desktop\UpDownCast\UpDownCast\obj\Debug\netcoreapp3.1\UpDownCast.genruntimeconfig.cache
